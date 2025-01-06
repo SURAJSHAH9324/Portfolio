@@ -1,0 +1,16 @@
+/* Component.css */
+
+@media (max-width: 768px) {
+    h3 {
+      font-size: 14px;
+      padding: 8px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    h3 {
+      font-size: 16px;
+      padding: 10px;
+    }
+  }
+  

@@ -1,0 +1,10 @@
+footer {
+    font-size: 1rem;
+    font-weight: 500;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
