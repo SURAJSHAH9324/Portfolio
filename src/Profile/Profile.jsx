@@ -38,7 +38,7 @@ function Profile({ isToggled }) {
         <div className="mt-4 flex flex-wrap justify-center gap-3">
           <button className="bg-transparent border-2 border-gray-500 p-2 rounded-md flex items-center gap-2">
             <span className="text-gray-500">
-              <i className="ri-mail-fill"></i> surajshah77881@gmail.com
+              <i className="ri-mail-fill"></i> <a href="mailto:surajshah77881@gmail.com">surajshah77881@gmail.com</a>
             </span>
           </button>
           <button className="bg-transparent border-2 border-gray-500 p-2 rounded-md flex items-center gap-2">
